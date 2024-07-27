@@ -4,6 +4,6 @@ I'm Michael. I have been building websites for almost 2/3 of my life and it hasn
 
 I (very irregularly) put some notes on [my website](https://www.mgrossklaus.de) where I also list some of [my work](https://www.mgrossklaus.de/work).
 
-Oh, and if you are like me into hi-fi — or you simply appreciate if your music sounds as good as it can get — you might want to check out [HiFi Log](https://www.hifilog.com). A platform that I built to combine my two hobbies: Music and web development.
+Oh, and if you are like me into hi-fi — or you simply appreciate it when your music sounds as good as it can — you might want to check out [HiFi Log](https://www.hifilog.com). A platform that I built to combine my two hobbies: Music and web development.
 
 Thanks for hanging around!
